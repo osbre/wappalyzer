@@ -2743,6 +2743,15 @@
     },
     "website": "http://movabletype.org"
   },
+  "Moveable": {
+    "cats": [
+      59
+    ],
+    "description": "Moveable is a JavaScript library that makes elements movable, scalable, rotatable, draggable and resizable.",
+    "dom": ".moveable-control-box",
+    "oss": true,
+    "website": "https://github.com/daybrush/moveable"
+  },
   "Mozard Suite": {
     "cats": [
       1
