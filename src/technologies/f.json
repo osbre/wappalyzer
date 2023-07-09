@@ -867,7 +867,7 @@
     "html": "<div id=\"flarum-loading\"",
     "icon": "flarum.png",
     "implies": [
-      "PHP",
+      "Laravel",
       "MySQL"
     ],
     "js": {
